@@ -15,6 +15,10 @@ The concept of generic classes allows code to be written that can handle differe
 
 ![Obraz1](https://github.com/maciekstrach01/Threads/assets/146733279/19be3045-c337-4bf8-ad24-1e4521df1486)
 ![Obraz2](https://github.com/maciekstrach01/Threads/assets/146733279/851127ca-50e0-41d2-807f-e7b7e235e254)
+
+Running the programme via a terminal
+
+                                                          
 ![Obraz3](https://github.com/maciekstrach01/Threads/assets/146733279/9b1baca5-2ba2-49aa-b360-f25d8144549b)
 ![Obraz4](https://github.com/maciekstrach01/Threads/assets/146733279/becbefdf-e8ea-4a24-922d-3676d22d11c8)
 
